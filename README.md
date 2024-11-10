@@ -1,10 +1,5 @@
 # Sales-Data-Entry-Automation
-Python script to automate sales data entry in Excel Sheet
-# Sales Data Entry Automation
-
-## Description
-
-This is a Python-based application that automates the entry of sales data into an Excel file. It collects the date, product name, quantity sold, and price per unit from the user, calculates total sales, and stores the data in an Excel file called `sales_data.xlsx`. This program also ensures the Excel file is created if it doesn’t already exist.
+Python script to automate sales data entry in an Excel file called `sales_data.xlsx`. This program also ensures the Excel file is created if it doesn’t already exist.
 
 ## Features
 - Creates an Excel file named `sales_data.xlsx` if it doesn't exist.
