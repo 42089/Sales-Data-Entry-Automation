@@ -14,10 +14,16 @@ Python script to automate sales data entry in an Excel file called `sales_data.x
 2. Install the required dependencies using pip:
 
     ```bash
+    git clone https://github.com/42089/Sales-Data-Entry-Automation
+    ```
+   ```bash
     pip install openpyxl pandas keyboard
     ```
-
-3. Download or clone the repository containing this script.
+3. Now you can use the tool.
+   
+   ```bash
+    python script.py
+    ```
 
 ## Usage
 
